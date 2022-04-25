@@ -2,6 +2,17 @@
 
 GOAL : Type as much word as you can before the time runs out!
 
+STEP-BY-STEP TO RUN THE PROJECT ON YOUR DEVICE:
+1. Download the rar file and extract them (make sure you remember the directory path where you extract the files)
+2. Open Unity Hub
+3. Click **ADD** button
+
+![image](https://user-images.githubusercontent.com/77273824/165151945-39787d95-85b2-4c53-872d-f02dfcaec48a.png)
+
+4. Select the path where you store the extracted files of the project
+5. Wait until it is loaded
+6. Done.
+
 INTERFACE & FEATURES :
 1. MAIN MENU
 
