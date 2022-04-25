@@ -1,6 +1,6 @@
-RICH TYPING
+**RICH TYPING GAME**
 
-Goal : Type as much word as you can before the time runs out!
+GOAL : Type as much word as you can before the time runs out!
 
 INTERFACE & FEATURES :
 1. MAIN MENU
@@ -15,18 +15,14 @@ INTERFACE & FEATURES :
 
 <img src="https://user-images.githubusercontent.com/77273824/165147483-b2549c85-40b6-4dfe-8cfc-f3e1e87d9142.gif"/>
 
-4. TYPING SYSTEM
+4. TYPING SYSTEM, TIMER SYSTEM, LEVEL SYSTEM, CHECKPOINT SYSTEM AND MONEY SYSTEM
 
 <img src="https://user-images.githubusercontent.com/77273824/165149223-748f1446-d78d-47d8-8897-d24913ae9f40.gif"/>
 
-5. HEALTH REDUCTION
+5. HEALTH SYSTEM
 
 ![image](https://user-images.githubusercontent.com/77273824/165149328-c5425fc8-a013-4421-9526-9315e16b85f3.png)
 
 6. CHECKPOINT
 
 ![image](https://user-images.githubusercontent.com/77273824/165149529-479288e5-4924-4af2-bfa0-50de5d7e2944.png)
-
-7. MONEY SYSTEM
-
-![image](https://user-images.githubusercontent.com/77273824/165149591-9b5e7010-fc29-41dd-b665-b6ad56f2c3cf.png)
